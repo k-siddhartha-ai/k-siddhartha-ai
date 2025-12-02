@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm K. Siddhartha
 
-<!--
-**k-siddhartha-ai/k-siddhartha-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | AI & Machine Learning Enthusiast  
+Solving real-world problems using Machine Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a Python developer focused on Artificial Intelligence and Machine Learning.  
+I build intelligent systems that convert data into real-world solutions using clean, efficient code.
+
+---
+
+## 🛠️ Technical Skills
+- Python
+- AI & Machine Learning
+- NumPy, Pandas, Matplotlib
+- Scikit-learn
+- MySQL
+- Data Structures & Algorithms with C
+
+---
+
+## 📌 Featured Projects
+- Spam Mail Detection using Machine Learning  
+- House Price Prediction using Linear Regression  
+- Fraud Detection using Decision Trees  
+- Data Analysis using Python  
+- DSA Implementations in C  
+
+---
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/k-siddhartha-ai
+- Instagram: https://instagram.com/learn_python_easily
+
