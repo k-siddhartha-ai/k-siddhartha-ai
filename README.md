@@ -33,4 +33,8 @@ I build intelligent systems that convert data into real-world solutions using cl
 ## 🌐 Connect With Me
 - GitHub: https://github.com/k-siddhartha-ai
 - Instagram: https://instagram.com/learn_python_easily
+- http://www.linkedin.com/in/karne-siddhartha-163bb1369
+- http://www.youtube.com/@Learnpythoneasily-c1k
+- https://medium.com/@karnesiddhartha04?source=---two_column_layout_nav-----------------------------------------
+- https://www.facebook.com/share/17XWzdBb8j/
 
