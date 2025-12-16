@@ -24,7 +24,8 @@ I build intelligent systems that convert data into real-world solutions using cl
 ## 📌 Featured Projects
 - Spam Mail Detection using Machine Learning  
 - House Price Prediction using Linear Regression  
-- Fraud Detection using Decision Trees  
+- Fraud Detection using Decision Trees
+- K-means clustering for customer segmentation
 - Data Analysis using Python  
 - DSA Implementations in C  
 
