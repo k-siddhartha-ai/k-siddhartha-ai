@@ -1,87 +1,78 @@
-# 👨‍💻 K. Siddhartha — Python Developer | AI / NLP Developer
+👨‍💻 K. Siddhartha — Python Developer | AI / NLP Developer
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=K.%20Siddhartha%20|%20AI%20Developer&fontSize=32&fontAlignY=35&animation=fadeIn"/> </p>
 
-AI & NLP Developer | Deep Learning • Transformers • Explainable ML • Computer Vision
+AI & NLP Developer | Deep Learning • Transformers • Explainable ML • Computer Vision • Data Analytics
 
-I build end-to-end AI and NLP systems using Python, Machine Learning, Transformers, and interactive web frameworks.
-My work focuses on real-time intelligent applications, explainable ML systems, data analytics, and multilingual language understanding.
+I build end-to-end AI and Machine Learning systems using Python, Machine Learning, Transformers, and interactive web frameworks.
+My work focuses on real-time intelligent applications, explainable ML systems, computer vision, data analytics, and multilingual language understanding.
 
----
+🚀 Featured Projects
+📉 ChurnGuard — End-to-End Customer Churn Intelligence Platform
 
-## 🚀 Featured Projects
-
-### 📉 ChurnGuard — End-to-End Customer Churn Intelligence Platform
-
-Production-style ML system with Explainable AI, customer segmentation, NLP integration, and deep-learning design. Built using Streamlit + FastAPI with full training and inference pipelines.
+Production-style ML system with Explainable AI, customer segmentation, NLP integration, and deep-learning architecture. Built using Streamlit + FastAPI with full training and inference pipelines.
 
 🔗 GitHub
-[https://github.com/k-siddhartha-ai/churnguard-ml-platform](https://github.com/k-siddhartha-ai/churnguard-ml-platform)
+https://github.com/k-siddhartha-ai/churnguard-ml-platform
 
----
+🧬 Lung Cancer Prediction using CNN & Transfer Learning
 
-### 🧬 Lung Cancer Prediction using CNN & Transfer Learning
-
-Deep learning research project for medical image classification using transfer learning. The model classifies lung cancer images into multiple categories and demonstrates computer vision pipelines, CNN architecture design, and healthcare AI applications.
+Deep learning research project for medical image classification using transfer learning.
+Predicts lung cancer categories using CNN architecture and Xception model.
 
 🔗 GitHub
-[https://github.com/k-siddhartha-ai](https://github.com/k-siddhartha-ai)
+(Add your lung cancer repo link here)
 
----
-
-### 🌍 Multilingual Sentiment Analysis
+🌍 Multilingual Sentiment Analysis
 
 Transformer-based multilingual sentiment classifier deployed on Hugging Face Spaces.
 
 🔗 Live Demo
-[https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis](https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis)
+https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis
 
----
+🍛 Swiggy Delivery Analysis Dashboard
 
-### 🍛 Swiggy Delivery Analysis
-
-End-to-end data analytics and visualization dashboard analyzing delivery efficiency, late-delivery probability, and operational insights using Python, Plotly, and Gradio.
+End-to-end data analytics and visualization system analyzing delivery efficiency, late-delivery probability, and operational insights using Python, Plotly, and Gradio.
 
 🔗 Live Demo
-[https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis](https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis)
+https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis
 
----
-
-### 🧠 NLP Text Processing Playground
+🧠 NLP Text Processing Playground
 
 Interactive NLP visualization tool demonstrating tokenization, stemming, and lemmatization using NLTK.
 
 🔗 Live Demo
-[https://huggingface.co/spaces/Siddhartha001/nlp-text-processing-gradio](https://huggingface.co/spaces/Siddhartha001/nlp-text-processing-gradio)
+https://huggingface.co/spaces/Siddhartha001/nlp-text-processing-gradio
 
----
+📏 Euclidean vs Manhattan Distance Visualization
 
-### 📏 Euclidean vs Manhattan Distance Visualization
-
-Interactive visualization comparing Euclidean and Manhattan distance metrics used in machine learning algorithms like KNN and clustering.
+Interactive ML visualization explaining L1 vs L2 distance metrics with geometric intuition and heatmaps.
 
 🔗 Live Demo
-[https://huggingface.co/spaces/Siddhartha001/euclidean-manhattan-distance](https://huggingface.co/spaces/Siddhartha001/euclidean-manhattan-distance)
+https://huggingface.co/spaces/Siddhartha001/euclidean-manhattan-distance
 
----
+🛒 Customer Segmentation using K-Means Clustering
 
-### 🛒 Customer Segmentation using K-Means Clustering
-
-Interactive unsupervised learning dashboard demonstrating Elbow Method, Silhouette Score, and cluster visualization using Streamlit and Scikit-learn.
+Unsupervised learning dashboard using Elbow Method and Silhouette Score for dynamic customer clustering.
 
 🔗 Live Demo
-[https://huggingface.co/spaces/Siddhartha001/kmeans-customer-segmentation](https://huggingface.co/spaces/Siddhartha001/kmeans-customer-segmentation)
+https://huggingface.co/spaces/Siddhartha001/kmeans-customer-segmentation
 
----
+🧾 Product Category Prediction using Decision Tree
 
-### 🛍️ Product Category Prediction using Decision Tree
-
-Explainable machine learning application that predicts product categories based on price, weight, and rating, including decision tree visualization for model interpretability.
+Explainable ML application predicting product categories using interpretable Decision Tree models.
 
 🔗 Live Demo
-[https://huggingface.co/spaces/Siddhartha001/Product_Category_Prediction_Decision_Tree](https://huggingface.co/spaces/Siddhartha001/Product_Category_Prediction_Decision_Tree)
+https://huggingface.co/spaces/Siddhartha001/Product_Category_Prediction_Decision_Tree
 
----
+💳 Credit Card Fraud Detection using Decision Tree
 
-## 🤖 Skills & Tools
+Explainable fraud detection system predicting fraudulent transactions with visualization of decision logic.
+
+🔗 Live Demo
+https://huggingface.co/spaces/Siddhartha001/Credit_Card_Fraud_Detection
+
+🧰 Skills & Tools
+<p> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github" /> </p>
 
 Natural Language Processing (NLP)
 
@@ -91,22 +82,20 @@ Deep Learning & Computer Vision
 
 Hugging Face Transformers
 
-Python
+Python Development
 
-Streamlit & Gradio
+Streamlit & Gradio Applications
 
-FastAPI
+FastAPI APIs
 
-NLTK
+Scikit-learn
 
 Data Analysis & Visualization
 
----
-
-## 🌐 Profiles
+🌐 Profiles
 
 🤗 Hugging Face
-[https://huggingface.co/Siddhartha001](https://huggingface.co/Siddhartha001)
+https://huggingface.co/Siddhartha001
 
 🔗 GitHub
-[https://github.com/k-siddhartha-ai](https://github.com/k-siddhartha-ai)
+https://github.com/k-siddhartha-ai
