@@ -10,12 +10,14 @@ Production-style ML system with Explainable AI, customer segmentation, NLP integ
 🔗 GitHub
 https://github.com/k-siddhartha-ai/churnguard-ml-platform
 
+
 🌍 Multilingual Sentiment Analysis
 
 Transformer-based multilingual sentiment classifier deployed on Hugging Face Spaces.
 
 🔗 Live Demo
 https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis
+
 
 🍛 Swiggy Delivery Analysis
 
@@ -24,12 +26,14 @@ End-to-end data analytics and visualization dashboard analyzing delivery efficie
 🔗 Live Demo
 https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis
 
+
 🧠 NLP Text Processing Playground
 
 Interactive NLP visualization tool demonstrating tokenization, stemming, and lemmatization using NLTK.
 
 🔗 Live Demo
 https://huggingface.co/spaces/Siddhartha001/nlp-text-processing-gradio
+
 
 🤖 Skills & Tools
 
