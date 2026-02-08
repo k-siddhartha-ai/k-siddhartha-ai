@@ -77,25 +77,24 @@ Explainable Machine Learning visualization predicting student performance using 
 🔗 Live Demo
 https://huggingface.co/spaces/Siddhartha001/Student_Pass_Fail_Prediction
 
+💼 Salary Prediction Using Linear Regression
+
+Interactive regression dashboard predicting salary based on skill level using an explainable Linear Regression model with visualization and performance metrics.
+
+🔗 Live Demo
+https://huggingface.co/spaces/Siddhartha001/Salary_Prediction_Using_Linear_Regression
+
 🧰 Skills & Tools
 <p> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github"/> </p>
 
 Natural Language Processing (NLP)
-
 Machine Learning & Explainable AI
-
 Deep Learning & Computer Vision
-
 Hugging Face Transformers
-
 Python Development
-
 Streamlit & Gradio Applications
-
 FastAPI APIs
-
 Scikit-learn
-
 Data Analysis & Visualization
 
 🌐 Profiles
@@ -111,15 +110,10 @@ https://github.com/k-siddhartha-ai
 This profile showcases end-to-end AI projects, including:
 
 Real-time ML deployment
-
 Explainable AI systems
-
 NLP applications
-
 Deep learning research
-
 Data analytics dashboards
-
 Interactive visualization tools
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/> </p>
