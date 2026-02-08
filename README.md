@@ -99,3 +99,21 @@ https://huggingface.co/Siddhartha001
 
 🔗 GitHub
 https://github.com/k-siddhartha-ai
+
+⭐ About This Portfolio
+
+This profile showcases end-to-end AI projects, including:
+
+Real-time ML deployment
+
+Explainable AI systems
+
+NLP applications
+
+Deep learning research
+
+Data analytics dashboards
+
+Interactive visualization tools
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/> </p>
