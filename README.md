@@ -72,24 +72,16 @@ Explainable fraud detection system predicting fraudulent transactions with visua
 https://huggingface.co/spaces/Siddhartha001/Credit_Card_Fraud_Detection
 
 🧰 Skills & Tools
-<p> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github"/> </p>
 
 Natural Language Processing (NLP)
-
 Machine Learning & Explainable AI
-
 Deep Learning & Computer Vision
-
 Hugging Face Transformers
-
 Python Development
-
 Streamlit & Gradio Applications
-
 FastAPI APIs
-
 Scikit-learn
-
 Data Analysis & Visualization
 
 🌐 Profiles
