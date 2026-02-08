@@ -18,12 +18,12 @@ Production-style ML system with Explainable AI, customer segmentation, NLP integ
 
 ---
 
-### 🧬 Lung Cancer Prediction using CNN and Transfer Learning
+### 🧬 Lung Cancer Prediction using CNN & Transfer Learning
 
-Deep learning research project for medical image classification using CNNs and transfer learning. Demonstrates computer vision, TensorFlow modeling, and end-to-end deep learning workflow.
+Deep learning research project for medical image classification using transfer learning. The model classifies lung cancer images into multiple categories and demonstrates computer vision pipelines, CNN architecture design, and healthcare AI applications.
 
 🔗 GitHub
-[https://github.com/k-siddhartha-ai/Lung-Cancer-Prediction-using-CNN-and-Transfer-Learning](https://github.com/k-siddhartha-ai/Lung-Cancer-Prediction-using-CNN-and-Transfer-Learning)
+[https://github.com/k-siddhartha-ai](https://github.com/k-siddhartha-ai)
 
 ---
 
@@ -65,10 +65,19 @@ Interactive visualization comparing Euclidean and Manhattan distance metrics use
 
 ### 🛒 Customer Segmentation using K-Means Clustering
 
-Interactive unsupervised machine learning dashboard demonstrating K-Means clustering, Elbow Method, and Silhouette Score using Streamlit.
+Interactive unsupervised learning dashboard demonstrating Elbow Method, Silhouette Score, and cluster visualization using Streamlit and Scikit-learn.
 
 🔗 Live Demo
 [https://huggingface.co/spaces/Siddhartha001/kmeans-customer-segmentation](https://huggingface.co/spaces/Siddhartha001/kmeans-customer-segmentation)
+
+---
+
+### 🛍️ Product Category Prediction using Decision Tree
+
+Explainable machine learning application that predicts product categories based on price, weight, and rating, including decision tree visualization for model interpretability.
+
+🔗 Live Demo
+[https://huggingface.co/spaces/Siddhartha001/Product_Category_Prediction_Decision_Tree](https://huggingface.co/spaces/Siddhartha001/Product_Category_Prediction_Decision_Tree)
 
 ---
 
