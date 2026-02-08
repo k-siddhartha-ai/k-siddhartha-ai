@@ -1,6 +1,6 @@
 # 👨‍💻 K. Siddhartha — AI / NLP Developer
 
-I build end-to-end AI and NLP systems using **Python**, **Machine Learning**, **Transformers**, and interactive web frameworks. My work focuses on real-time intelligent applications, explainable ML systems, and multilingual language understanding.
+I build end-to-end AI and NLP systems using **Python**, **Machine Learning**, **Transformers**, and interactive web frameworks. My work focuses on real-time intelligent applications, explainable ML systems, data analytics, and multilingual language understanding.
 
 ---
 
@@ -21,6 +21,15 @@ Transformer-based multilingual sentiment classifier deployed on Hugging Face Spa
 
 🔗 Live Demo:
 [https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis](https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis)
+
+---
+
+### 🍛 Swiggy Delivery Analysis
+
+End-to-end data analytics and visualization dashboard analyzing delivery efficiency, late-delivery probability, and operational insights using Python, Plotly, and Gradio.
+
+🔗 Live Demo:
+[https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis](https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis)
 
 ---
 
