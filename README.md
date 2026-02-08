@@ -16,8 +16,7 @@ https://github.com/k-siddhartha-ai/churnguard-ml-platform
 
 🧬 Lung Cancer Prediction using CNN & Transfer Learning
 
-Deep learning research project for medical image classification using transfer learning.
-Predicts lung cancer categories using CNN architecture and Xception model.
+Deep learning research project for medical image classification using transfer learning. Predicts lung cancer categories using CNN architecture and Xception model.
 
 🔗 GitHub
 (Add your lung cancer repo link here)
@@ -71,17 +70,32 @@ Explainable fraud detection system predicting fraudulent transactions with visua
 🔗 Live Demo
 https://huggingface.co/spaces/Siddhartha001/Credit_Card_Fraud_Detection
 
+🎓 Student Pass / Fail Prediction using Decision Tree
+
+Explainable Machine Learning visualization predicting student performance using Decision Tree logic with an interactive Streamlit interface.
+
+🔗 Live Demo
+https://huggingface.co/spaces/Siddhartha001/Student_Pass_Fail_Prediction
+
 🧰 Skills & Tools
 <p> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github"/> </p>
 
 Natural Language Processing (NLP)
+
 Machine Learning & Explainable AI
+
 Deep Learning & Computer Vision
+
 Hugging Face Transformers
+
 Python Development
+
 Streamlit & Gradio Applications
+
 FastAPI APIs
+
 Scikit-learn
+
 Data Analysis & Visualization
 
 🌐 Profiles
