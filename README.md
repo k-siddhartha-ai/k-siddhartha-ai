@@ -1,5 +1,7 @@
 👨‍💻 K. Siddhartha — AI / NLP Developer
 
+AI & NLP Developer | Deep Learning • Transformers • Explainable ML • Computer Vision
+
 I build end-to-end AI and NLP systems using Python, Machine Learning, Transformers, and interactive web frameworks. My work focuses on real-time intelligent applications, explainable ML systems, data analytics, and multilingual language understanding.
 
 🚀 Featured Projects
