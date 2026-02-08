@@ -1,14 +1,23 @@
 # 👨‍💻 K. Siddhartha — AI / NLP Developer
 
-I build interactive AI and NLP applications using **Python**, **Transformers**, and **Gradio**, focusing on real-time text processing and multilingual language understanding.
+I build end-to-end AI and NLP systems using **Python**, **Machine Learning**, **Transformers**, and interactive web frameworks. My work focuses on real-time intelligent applications, explainable ML systems, and multilingual language understanding.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 📉 ChurnGuard — End-to-End Customer Churn Intelligence Platform
+
+Production-style ML system with Explainable AI, customer segmentation, NLP integration, and deep-learning design. Built using Streamlit + FastAPI with full training and inference pipelines.
+
+🔗 GitHub:
+[https://github.com/k-siddhartha-ai/churnguard-ml-platform](https://github.com/k-siddhartha-ai/churnguard-ml-platform)
+
+---
+
 ### 🌍 Multilingual Sentiment Analysis
 
-Transformer-based multilingual sentiment classifier with Hugging Face deployment.
+Transformer-based multilingual sentiment classifier deployed on Hugging Face Spaces.
 
 🔗 Live Demo:
 [https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis](https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis)
@@ -27,11 +36,13 @@ Interactive NLP visualization tool demonstrating tokenization, stemming, and lem
 ## 🤖 Skills & Tools
 
 * Natural Language Processing (NLP)
+* Machine Learning & Explainable AI
 * Hugging Face Transformers
 * Python
-* Gradio
+* Streamlit & Gradio
+* FastAPI
 * NLTK
-* Machine Learning Fundamentals
+* Data Analysis & Visualization
 
 ---
 
