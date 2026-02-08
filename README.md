@@ -84,6 +84,13 @@ Interactive regression dashboard predicting salary based on skill level using an
 🔗 Live Demo
 https://huggingface.co/spaces/Siddhartha001/Salary_Prediction_Using_Linear_Regression
 
+🏠 House Price Prediction using Linear Regression
+
+Regression-based ML application predicting house prices using Gradio deployment and interpretable linear modeling.
+
+🔗 Live Demo
+https://huggingface.co/spaces/Siddhartha001/House-prediction-using-Linear-Regression
+
 🧰 Skills & Tools
 <p> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github"/> </p>
 
