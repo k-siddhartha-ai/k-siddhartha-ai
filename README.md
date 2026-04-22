@@ -39,6 +39,30 @@ https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis
 
 ---
 
+## 🚨 High-Impact Project
+
+### 💳 Real-Time Fraud Detection System
+
+An end-to-end Machine Learning system designed to detect fraudulent transactions in real time.
+
+### 🔥 Key Features:
+- Real-time fraud prediction using ML models  
+- Risk scoring based on transaction probability  
+- Handles imbalanced financial data  
+- Explainable AI for decision transparency  
+- Business impact estimation (fraud loss prevention)  
+
+### ⚙️ System Design:
+- Data Processing → Feature Engineering  
+- Model → Machine Learning classifier  
+- Prediction → Fraud probability scoring  
+- Output → Fraud alert + risk level  
+
+🔗 **GitHub:**  
+https://github.com/k-siddhartha-ai/real-time-fraud-detection-system  
+
+---
+
 ## 🚀 Other Key Projects
 
 ### 📉 Customer Churn Intelligence Platform
