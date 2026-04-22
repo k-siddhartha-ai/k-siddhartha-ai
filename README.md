@@ -1,126 +1,104 @@
-👨‍💻 K. Siddhartha — Python Developer | AI / NLP Developer
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=K.%20Siddhartha%20|%20AI%20Developer&fontSize=32&fontAlignY=35&animation=fadeIn"/> </p>
+# 👨‍💻 Karne Siddhartha  
+### Python Developer | AIML Engineer | Data Scientist  
 
-AI & NLP Developer | Deep Learning • Transformers • Explainable ML • Computer Vision • Data Analytics
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Karne%20Siddhartha%20|%20AIML%20Engineer&fontSize=32&fontAlignY=35&animation=fadeIn"/>
+</p>
 
-I build end-to-end AI and Machine Learning systems using Python, Machine Learning, Transformers, and interactive web frameworks.
-My work focuses on real-time intelligent applications, explainable ML systems, computer vision, data analytics, and multilingual language understanding.
+---
 
-🚀 Featured Projects
-📉 ChurnGuard — End-to-End Customer Churn Intelligence Platform
+## 🚀 About Me
 
-Production-style ML system with Explainable AI, customer segmentation, NLP integration, and deep-learning architecture. Built using Streamlit + FastAPI with full training and inference pipelines.
+I am a Python Developer and AIML Engineer focused on building **real-world AI systems**.
 
-🔗 GitHub
-https://github.com/k-siddhartha-ai/churnguard-ml-platform
+I specialize in:
+- Machine Learning & Data Science  
+- Predictive Systems  
+- Explainable AI  
+- Interactive AI Applications  
 
-🧬 Lung Cancer Prediction using CNN & Transfer Learning
+---
 
-Deep learning research project for medical image classification using transfer learning. Predicts lung cancer categories using CNN architecture and Xception model.
+## ⭐ Featured Project (Main Highlight)
 
-🔗 GitHub
-(Add your lung cancer repo link here)
+### 🍛 AI-Powered Delivery Intelligence System
 
-🌍 Multilingual Sentiment Analysis
+An end-to-end Machine Learning system that:
+- Predicts delivery time  
+- Identifies delay causes  
+- Calculates business impact  
+- Provides optimization strategies  
 
-Transformer-based multilingual sentiment classifier deployed on Hugging Face Spaces.
+**Tech Used:** Python, Pandas, Scikit-learn, Plotly, Gradio  
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis
+🔗 **Live App:**  
+https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis  
 
-🍛 Swiggy Delivery Analysis Dashboard
+🔗 **GitHub:**  
+(Add your repo link here)
 
-End-to-end data analytics and visualization system analyzing delivery efficiency, late-delivery probability, and operational insights using Python, Plotly, and Gradio.
+---
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis
+## 🚀 Other Key Projects
 
-🧠 NLP Text Processing Playground
+### 📉 Customer Churn Intelligence Platform
+End-to-end ML system with Explainable AI, segmentation, and NLP integration.
 
-Interactive NLP visualization tool demonstrating tokenization, stemming, and lemmatization using NLTK.
+🔗 https://github.com/k-siddhartha-ai/churnguard-ml-platform  
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/nlp-text-processing-gradio
+---
 
-📏 Euclidean vs Manhattan Distance Visualization
+### 🌍 Multilingual Sentiment Analysis
+Transformer-based NLP model deployed on Hugging Face.
 
-Interactive ML visualization explaining L1 vs L2 distance metrics with geometric intuition and heatmaps.
+🔗 https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis  
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/euclidean-manhattan-distance
+---
 
-🛒 Customer Segmentation using K-Means Clustering
+### 🧬 Lung Cancer Prediction (Deep Learning)
+CNN + Transfer Learning for medical image classification.
 
-Unsupervised learning dashboard using Elbow Method and Silhouette Score for dynamic customer clustering.
+---
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/kmeans-customer-segmentation
+### 📊 Machine Learning Visualization Projects
+- Customer Segmentation (K-Means)  
+- Distance Metrics Visualization  
+- Decision Tree Applications  
+- Regression Models  
 
-🧾 Product Category Prediction using Decision Tree
+---
 
-Explainable ML application predicting product categories using interpretable Decision Tree models.
+## 🧰 Skills & Tools
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/Product_Category_Prediction_Decision_Tree
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github"/>
+</p>
 
-💳 Credit Card Fraud Detection using Decision Tree
+- Machine Learning & AI  
+- Data Science & Analytics  
+- NLP & Transformers  
+- Deep Learning & Computer Vision  
+- FastAPI, Streamlit, Gradio  
+- Data Visualization  
 
-Explainable fraud detection system predicting fraudulent transactions with visualization of decision logic.
+---
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/Credit_Card_Fraud_Detection
+## 🌐 Profiles
 
-🎓 Student Pass / Fail Prediction using Decision Tree
+- 🔗 GitHub: https://github.com/k-siddhartha-ai  
+- 🤗 Hugging Face: https://huggingface.co/Siddhartha001  
 
-Explainable Machine Learning visualization predicting student performance using Decision Tree logic with an interactive Streamlit interface.
+---
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/Student_Pass_Fail_Prediction
+## 🎯 What I Build
 
-💼 Salary Prediction Using Linear Regression
+- End-to-End ML Systems  
+- AI-powered dashboards  
+- Predictive analytics solutions  
+- Explainable AI applications  
 
-Interactive regression dashboard predicting salary based on skill level using an explainable Linear Regression model with visualization and performance metrics.
+---
 
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/Salary_Prediction_Using_Linear_Regression
-
-🏠 House Price Prediction using Linear Regression
-
-Regression-based ML application predicting house prices using Gradio deployment and interpretable linear modeling.
-
-🔗 Live Demo
-https://huggingface.co/spaces/Siddhartha001/House-prediction-using-Linear-Regression
-
-🧰 Skills & Tools
-<p> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github"/> </p>
-
-Natural Language Processing (NLP)
-Machine Learning & Explainable AI
-Deep Learning & Computer Vision
-Hugging Face Transformers
-Python Development
-Streamlit & Gradio Applications
-FastAPI APIs
-Scikit-learn
-Data Analysis & Visualization
-
-🌐 Profiles
-
-🤗 Hugging Face
-https://huggingface.co/Siddhartha001
-
-🔗 GitHub
-https://github.com/k-siddhartha-ai
-
-⭐ About This Portfolio
-
-This profile showcases end-to-end AI projects, including:
-
-Real-time ML deployment
-Explainable AI systems
-NLP applications
-Deep learning research
-Data analytics dashboards
-Interactive visualization tools
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/> </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+</p>
