@@ -1,127 +1,265 @@
-# 👨‍💻 Karne Siddhartha  
-### Python Developer | AIML Engineer | Data Scientist  
+# 👋 Hi, I'm Karne Siddhartha
+
+### AI & Machine Learning Engineer | Python Developer | NLP | Deep Learning | Generative AI
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Karne%20Siddhartha%20|%20AIML%20Engineer&fontSize=32&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Karne%20Siddhartha&fontSize=42&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <a href="https://k-siddhartha-ai.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/karne-siddhartha-163bb1369/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/k-siddhartha-ai">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🌐 Portfolio
 
-I am a Python Developer and AIML Engineer focused on building **real-world AI systems**.
+### 🔗 Live Portfolio
 
-I specialize in:
-- Machine Learning & Data Science  
-- Predictive Systems  
-- Explainable AI  
-- Interactive AI Applications  
+https://k-siddhartha-ai.github.io/portfolio/
+
+Explore my projects, technical skills, certifications, GitHub repositories, and AI/ML work.
 
 ---
 
-## ⭐ Featured Project (Main Highlight)
+# 🚀 About Me
 
-### 🍛 AI-Powered Delivery Intelligence System
+AI & Machine Learning Engineer passionate about building real-world intelligent systems using:
 
-An end-to-end Machine Learning system that:
-- Predicts delivery time  
-- Identifies delay causes  
-- Calculates business impact  
-- Provides optimization strategies  
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- FastAPI
+- Streamlit
+- Data Science
 
-**Tech Used:** Python, Pandas, Scikit-learn, Plotly, Gradio  
-
-🔗 **Live App:**  
-https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis  
-
-🔗 **GitHub:**  
-(Add your repo link here)
+I focus on developing production-ready AI applications that solve practical business problems.
 
 ---
 
-## 🚨 High-Impact Project
+# ⭐ Featured Projects
 
-### 💳 Real-Time Fraud Detection System
+## 🍛 AI-Powered Delivery Intelligence System
 
-An end-to-end Machine Learning system designed to detect fraudulent transactions in real time.
+An end-to-end Machine Learning platform that:
 
-### 🔥 Key Features:
-- Real-time fraud prediction using ML models  
-- Risk scoring based on transaction probability  
-- Handles imbalanced financial data  
-- Explainable AI for decision transparency  
-- Business impact estimation (fraud loss prevention)  
+- Predicts delivery times
+- Identifies delay causes
+- Calculates business impact
+- Provides optimization recommendations
 
-### ⚙️ System Design:
-- Data Processing → Feature Engineering  
-- Model → Machine Learning classifier  
-- Prediction → Fraud probability scoring  
-- Output → Fraud alert + risk level  
+### Tech Stack
 
-🔗 **GitHub:**  
-https://github.com/k-siddhartha-ai/real-time-fraud-detection-system  
+Python • Pandas • Scikit-Learn • Plotly • Gradio
+
+### Live Demo
+
+https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis
 
 ---
 
-## 🚀 Other Key Projects
+## 💳 Real-Time Fraud Detection System
 
-### 📉 Customer Churn Intelligence Platform
-End-to-end ML system with Explainable AI, segmentation, and NLP integration.
+A Machine Learning system designed to detect fraudulent financial transactions in real time.
 
-🔗 https://github.com/k-siddhartha-ai/churnguard-ml-platform  
+### Features
 
----
+- Real-Time Fraud Detection
+- Risk Scoring
+- Explainable AI
+- Business Impact Analysis
+- Imbalanced Dataset Handling
 
-### 🌍 Multilingual Sentiment Analysis
-Transformer-based NLP model deployed on Hugging Face.
+### GitHub
 
-🔗 https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis  
-
----
-
-### 🧬 Lung Cancer Prediction (Deep Learning)
-CNN + Transfer Learning for medical image classification.
+https://github.com/k-siddhartha-ai/real-time-fraud-detection-system
 
 ---
 
-### 📊 Machine Learning Visualization Projects
-- Customer Segmentation (K-Means)  
-- Distance Metrics Visualization  
-- Decision Tree Applications  
-- Regression Models  
+## 📉 ChurnGuard ML Platform
+
+Customer Retention Intelligence System.
+
+### Features
+
+- Customer Churn Prediction
+- Explainable AI
+- Customer Segmentation
+- NLP-Based Insights
+- Business Analytics Dashboard
+
+### GitHub
+
+https://github.com/k-siddhartha-ai/churnguard-ml-platform
 
 ---
 
-## 🧰 Skills & Tools
+## 🌍 Multilingual Sentiment Analysis
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,fastapi,streamlit,github"/>
-</p>
+Transformer-based NLP application supporting multiple languages.
 
-- Machine Learning & AI  
-- Data Science & Analytics  
-- NLP & Transformers  
-- Deep Learning & Computer Vision  
-- FastAPI, Streamlit, Gradio  
-- Data Visualization  
+### Features
 
----
+- Multilingual Text Classification
+- Hugging Face Transformers
+- Sentiment Prediction
+- Interactive Gradio Interface
 
-## 🌐 Profiles
+### Live Demo
 
-- 🔗 GitHub: https://github.com/k-siddhartha-ai  
-- 🤗 Hugging Face: https://huggingface.co/Siddhartha001  
+https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis
 
 ---
 
-## 🎯 What I Build
+## 🧬 Lung Cancer Prediction System
 
-- End-to-End ML Systems  
-- AI-powered dashboards  
-- Predictive analytics solutions  
-- Explainable AI applications  
+Deep Learning application for medical image classification.
+
+### Features
+
+- CNN Architecture
+- Transfer Learning
+- Medical Image Processing
+- Disease Classification
 
 ---
+
+## 📧 Spam Email Detection
+
+Machine Learning system that classifies emails as spam or ham.
+
+### Features
+
+- Text Preprocessing
+- CountVectorizer
+- Logistic Regression
+- Interactive Web Interface
+
+---
+
+## 🏠 House Price Prediction
+
+Machine Learning regression model for real-estate price estimation.
+
+### Features
+
+- Data Analysis
+- Feature Engineering
+- Regression Models
+- Price Forecasting
+
+---
+
+## 🩺 Diabetes Prediction System
+
+Healthcare-focused Machine Learning project.
+
+### Features
+
+- Medical Data Analysis
+- Binary Classification
+- Risk Prediction
+
+---
+
+## 📊 Machine Learning Visualization Projects
+
+- K-Means Clustering
+- Customer Segmentation
+- Decision Trees
+- Distance Metrics
+- PCA Visualization
+- Regression Models
+
+---
+
+# 🛠 Technical Skills
+
+## Programming Languages
+
+- Python
+- Java
+- C
+- SQL
+
+## Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Generative AI
+- Explainable AI
+
+## Frameworks & Libraries
+
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- FastAPI
+- Streamlit
+- Gradio
+
+## Tools
+
+- Git
+- GitHub
+- Docker
+- VS Code
+- Google Colab
+- Hugging Face
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-siddhartha-ai&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-siddhartha-ai&layout=compact)
+
+---
+
+# 🌐 Connect With Me
+
+### Portfolio
+
+https://k-siddhartha-ai.github.io/portfolio/
+
+### LinkedIn
+
+https://www.linkedin.com/in/karne-siddhartha-163bb1369/
+
+### GitHub
+
+https://github.com/k-siddhartha-ai
+
+### Hugging Face
+
+https://huggingface.co/Siddhartha001
+
+### YouTube
+
+https://www.youtube.com/@CodeWithSiddhartha
+
+---
+
+# 🎯 Career Goal
+
+To build AI-powered products that create real-world impact using Machine Learning, Deep Learning, NLP, and Generative AI.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
