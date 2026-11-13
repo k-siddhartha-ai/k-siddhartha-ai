@@ -65,7 +65,7 @@ An end-to-end Machine Learning platform that:
 
 Python • Pandas • Scikit-Learn • Plotly • Gradio
 
-### Live Demo
+### Live Demo – Hugging Face
 
 https://huggingface.co/spaces/Siddhartha001/swiggy-delivery-analysis
 
@@ -86,6 +86,10 @@ A Machine Learning system designed to detect fraudulent financial transactions i
 ### GitHub
 
 https://github.com/k-siddhartha-ai/real-time-fraud-detection-system
+
+### Related Hugging Face Project – Credit Card Fraud Detection
+
+https://huggingface.co/spaces/Siddhartha001/Credit_Card_Fraud_Detection
 
 ---
 
@@ -118,7 +122,7 @@ Transformer-based NLP application supporting multiple languages.
 - Sentiment Prediction
 - Interactive Gradio Interface
 
-### Live Demo
+### Live Demo – Hugging Face
 
 https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis
 
@@ -126,14 +130,19 @@ https://huggingface.co/spaces/Siddhartha001/multilingual-sentiment-analysis
 
 ## 🧬 Lung Cancer Prediction System
 
-Deep Learning application for medical image classification.
+Deep Learning application for medical image classification using CNN and transfer learning.
 
 ### Features
 
 - CNN Architecture
 - Transfer Learning
+- Xception Architecture
 - Medical Image Processing
 - Disease Classification
+
+### GitHub
+
+https://github.com/k-siddhartha-ai/Lung-Cancer-Prediction-using-CNN-and-Transfer-Learning
 
 ---
 
@@ -148,6 +157,10 @@ Machine Learning system that classifies emails as spam or ham.
 - Logistic Regression
 - Interactive Web Interface
 
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/spam-email-detection-ml
+
 ---
 
 ## 🏠 House Price Prediction
@@ -158,8 +171,12 @@ Machine Learning regression model for real-estate price estimation.
 
 - Data Analysis
 - Feature Engineering
-- Regression Models
-- Price Forecasting
+- Linear Regression
+- Price Prediction
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/House-prediction-using-Linear-Regression
 
 ---
 
@@ -170,8 +187,83 @@ Healthcare-focused Machine Learning project.
 ### Features
 
 - Medical Data Analysis
+- Logistic Regression
 - Binary Classification
 - Risk Prediction
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/Diabetes-Prediction-using-Logistic-Regression
+
+---
+
+## 💰 Salary Prediction Using Linear Regression
+
+Machine Learning application for predicting salary using Linear Regression.
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/Salary_Prediction_Using_Linear_Regression
+
+---
+
+## 🎓 Student Pass Fail Prediction
+
+Machine Learning application for predicting student pass/fail outcomes.
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/Student_Pass_Fail_Prediction
+
+---
+
+## 🛍️ Product Category Prediction – Decision Tree
+
+A Decision Tree-based Machine Learning application for product category prediction.
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/Product_Category_Prediction_Decision_Tree
+
+---
+
+## 📝 NLP Text Processing – Gradio
+
+An interactive NLP application for text processing.
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/nlp-text-processing-gradio
+
+---
+
+## 📏 Euclidean vs Manhattan Distance
+
+An interactive application demonstrating distance metrics used in Machine Learning algorithms.
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/euclidean-manhattan-distance
+
+---
+
+## 📊 K-Means Customer Segmentation
+
+An unsupervised Machine Learning project for customer segmentation using K-Means clustering.
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/kmeans-customer-segmentation
+
+---
+
+## 🐅 SVM – Tiger vs Lion Prediction
+
+A Support Vector Machine application that predicts whether an animal is a tiger or lion based on input features.
+
+### Live Demo – Hugging Face
+
+https://huggingface.co/spaces/Siddhartha001/svm-tiger-vs-lion
 
 ---
 
@@ -239,25 +331,88 @@ https://todolist-tau-roan.vercel.app/
 
 ---
 
-## 🎓 Student Dashboard
+## 🎓 Student Info Dashboard
 
-A web development project focused on creating a structured student dashboard interface.
+A web development project focused on creating a structured student information dashboard.
 
 ### Features
 
 - Student dashboard interface.
-- Organized information display.
+- Organized student information display.
 - HTML and CSS-based frontend development.
+- Interactive functionality using JavaScript.
 
 ### Tech Stack
 
 HTML5 • CSS3 • JavaScript
 
-### GitHub
+### Live Demo
 
-Explore my GitHub repositories:
+https://student-info-dashboard.vercel.app/
 
-https://github.com/k-siddhartha-ai
+---
+
+## 🔢 JavaScript Counter App
+
+A simple interactive counter application built using JavaScript.
+
+### Features
+
+- Increment counter value.
+- Decrement counter value.
+- Reset counter.
+- Dynamic DOM manipulation.
+- Interactive user interface.
+
+### Tech Stack
+
+HTML5 • CSS3 • JavaScript
+
+### Live Demo
+
+https://javascript-counter-app-sage.vercel.app/
+
+---
+
+## 🧩 CSS Grid Layout
+
+A frontend layout project demonstrating CSS Grid for creating structured and responsive web layouts.
+
+### Features
+
+- CSS Grid-based layout.
+- Rows and columns arrangement.
+- Structured content positioning.
+- Responsive layout design.
+
+### Tech Stack
+
+HTML5 • CSS3 • CSS Grid
+
+### Live Demo
+
+https://css-grid-layout-brown.vercel.app/
+
+---
+
+## 📝 Signup Form
+
+A frontend signup form project built using HTML, CSS, and JavaScript.
+
+### Features
+
+- Signup form interface.
+- User input fields.
+- Form layout and styling.
+- Interactive form elements.
+
+### Tech Stack
+
+HTML5 • CSS3 • JavaScript
+
+### Live Demo
+
+https://signup-form-chi-bice.vercel.app/
 
 ---
 
@@ -280,6 +435,7 @@ https://github.com/k-siddhartha-ai
 - JSX
 - Responsive Web Design
 - CSS Flexbox
+- CSS Grid
 - Component-Based Development
 - Props and Conditional Rendering
 - Node.js (Learning)
@@ -357,5 +513,5 @@ https://www.youtube.com/@CodeWithSiddhartha
 To build innovative software and AI-powered products that create real-world impact using Machine Learning, Deep Learning, NLP, Generative AI, and modern web development technologies.
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
 </p>
