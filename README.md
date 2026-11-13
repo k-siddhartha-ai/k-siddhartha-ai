@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karne Siddhartha
 
-### AI & Machine Learning Engineer | Python Developer | NLP | Deep Learning | Generative AI
+### AI & Machine Learning Engineer | Python Developer | Web Developer | NLP | Deep Learning | Generative AI
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Karne%20Siddhartha&fontSize=42&fontAlignY=35"/>
@@ -32,18 +32,21 @@ Explore my projects, technical skills, certifications, GitHub repositories, and 
 
 # 🚀 About Me
 
-AI & Machine Learning Engineer passionate about building real-world intelligent systems using:
+AI & Machine Learning Engineer and Web Developer passionate about building real-world intelligent systems and interactive web applications using:
 
 - Python
 - Machine Learning
 - Deep Learning
 - NLP
 - Generative AI
+- React.js
+- JavaScript
+- HTML5 & CSS3
 - FastAPI
 - Streamlit
 - Data Science
 
-I focus on developing production-ready AI applications that solve practical business problems.
+I focus on developing practical applications that solve real-world problems through AI, machine learning, and modern web technologies.
 
 ---
 
@@ -183,6 +186,81 @@ Healthcare-focused Machine Learning project.
 
 ---
 
+# 🌐 Web Development Projects
+
+## 🎓 React Course Cards – Programming Courses UI
+
+A React.js application that showcases programming courses through reusable and visually appealing course cards.
+
+### Features
+
+- Displays 8 programming courses with images and descriptions.
+- Reusable React functional components.
+- Props-based dynamic data passing.
+- Conditional rendering.
+- Course pricing with Indian Rupee (₹) symbol.
+- CSS Flexbox layout.
+- Hover effects, transitions, and card shadows.
+- Cloud deployment using Cloudflare Pages.
+
+### Tech Stack
+
+React.js • JavaScript (JSX) • HTML5 • CSS3 • Vite • Git & GitHub
+
+### Live Demo
+
+https://react-course-cards.pages.dev
+
+### GitHub
+
+https://github.com/k-siddhartha-ai/react-course-cards
+
+---
+
+## 📝 To-Do List Application
+
+A JavaScript-based task management application for creating and managing daily tasks.
+
+### Features
+
+- Add and manage tasks.
+- Mark tasks as completed.
+- Delete tasks.
+- Browser Local Storage for saving tasks.
+- Interactive user interface.
+
+### Tech Stack
+
+HTML5 • CSS3 • JavaScript • Local Storage
+
+### Live Demo
+
+https://todolist-tau-roan.vercel.app/
+
+---
+
+## 🎓 Student Dashboard
+
+A web development project focused on creating a structured student dashboard interface.
+
+### Features
+
+- Student dashboard interface.
+- Organized information display.
+- HTML and CSS-based frontend development.
+
+### Tech Stack
+
+HTML5 • CSS3 • JavaScript
+
+### GitHub
+
+Explore my GitHub repositories:
+
+https://github.com/k-siddhartha-ai
+
+---
+
 # 🛠 Technical Skills
 
 ## Programming Languages
@@ -190,7 +268,21 @@ Healthcare-focused Machine Learning project.
 - Python
 - Java
 - C
+- JavaScript
 - SQL
+
+## Web Development
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- JSX
+- Responsive Web Design
+- CSS Flexbox
+- Component-Based Development
+- Props and Conditional Rendering
+- Node.js (Learning)
 
 ## Artificial Intelligence
 
@@ -214,7 +306,7 @@ Healthcare-focused Machine Learning project.
 - Streamlit
 - Gradio
 
-## Tools
+## Tools & Platforms
 
 - Git
 - GitHub
@@ -222,6 +314,9 @@ Healthcare-focused Machine Learning project.
 - VS Code
 - Google Colab
 - Hugging Face
+- Vite
+- Cloudflare Pages
+- Vercel
 
 ---
 
@@ -259,7 +354,7 @@ https://www.youtube.com/@CodeWithSiddhartha
 
 # 🎯 Career Goal
 
-To build AI-powered products that create real-world impact using Machine Learning, Deep Learning, NLP, and Generative AI.
+To build innovative software and AI-powered products that create real-world impact using Machine Learning, Deep Learning, NLP, Generative AI, and modern web development technologies.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
