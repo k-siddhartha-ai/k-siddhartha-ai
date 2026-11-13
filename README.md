@@ -416,6 +416,41 @@ https://signup-form-chi-bice.vercel.app/
 
 ---
 
+# ✍️ Technical Articles
+
+I enjoy sharing my technical knowledge through beginner-friendly tutorials, practical examples, and hands-on programming guides.
+
+## 🍃 MongoDB for Beginners: From Installation to Real-World Database Operations Using MongoDB Shell (mongosh)
+
+A practical, beginner-friendly guide to learning MongoDB from installation to real-world database operations.
+
+### Topics Covered
+
+- Introduction to MongoDB
+- SQL vs NoSQL
+- MongoDB Installation on Windows
+- Running MongoDB Server
+- Connecting using MongoDB Shell (mongosh)
+- Creating Databases and Collections
+- CRUD Operations – Insert, Find, Update and Delete
+- Comparison and Logical Query Operators
+- Sorting, Limit and Skip
+- Indexing and Text Search
+- Aggregation Pipelines
+- Database Statistics
+- Query Execution Plans
+- MongoDB Best Practices
+
+### Read the Complete Article on Medium
+
+📖 [MongoDB for Beginners: From Installation to Real-World Database Operations Using MongoDB Shell – Karne Siddhartha](https://medium.com/@karnesiddhartha04/mongodb-for-beginners-from-installation-to-real-world-database-operations-using-mongodb-shell-77fcf80bdbbd)
+
+**Author:** Karne Siddhartha
+
+**Platform:** Medium
+
+---
+
 # 🛠 Technical Skills
 
 ## Programming Languages
@@ -505,6 +540,10 @@ https://huggingface.co/Siddhartha001
 ### YouTube
 
 https://www.youtube.com/@CodeWithSiddhartha
+
+### Medium
+
+https://medium.com/@karnesiddhartha04
 
 ---
 
